@@ -1,4 +1,4 @@
-# Hi coders ,  It,s Vernikaa  👋🏻
+# Hi coders ,  It's Vernikaa  👋🏻
 
   🧠 Computer Science student at NIT Raipur<br/>
   💬 Ask me about C, C++, Python, DSA, Visual Studio<br/>
