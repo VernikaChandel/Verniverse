@@ -2,13 +2,6 @@
 
   🧠 Computer Science student at NIT Raipur<br/>
   💬 Ask me about C, C++, Python, DSA, Visual Studio<br/>
-
-  <br/>
-  <br/>
-  <p align="center">
-  <img src="Woman Coding GIF by Pluralsight" width="300px" height="250px">
-  </p>
-
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vernikachandel?igsh=MWhicHVzdmt1czdoZw%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/vernika-chandel-1a5596278) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/Loose_Degree4732/s/YcGV32irBG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vernikachandel14@gmail.com) 
