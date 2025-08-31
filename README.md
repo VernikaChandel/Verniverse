@@ -2,8 +2,13 @@
 
   🧠 Computer Science student at NIT Raipur<br/>
   💬 Ask me about C, C++, Python, DSA, Visual Studio<br/>
-  
 
+  <br/>
+  <br/>
+  <p align="center">
+  <img src="![Woman Coding GIF by Pluralsight](https://github.com/user-attachments/assets/f6ade09a-b849-43d1-84d3-7b32e65dbf66)
+" width="300px" height="250px">
+  </p>
 
   
 ## 🌐 Socials:
